@@ -1,8 +1,8 @@
 # WEBLIB
 A curated list of tools and platforms for developers, designers, learners, and self-hosting enthusiasts.
 
-
-## 1. General
+## Table of Contents 
+# 1. General
 - [Google Search](https://www.google.com)
 - [DuckDuckGo](https://duckduckgo.com)
 - [Wikipedia](https://www.wikipedia.org)
@@ -11,7 +11,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 2. Technology
+# 2. Technology
 - [GitHub](https://github.com)
 - [Stack Overflow](https://stackoverflow.com)
 - [Hacker News](https://news.ycombinator.com)
@@ -22,7 +22,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 3. Media
+# 3. Media
 - [YouTube](https://www.youtube.com)
 - [Vimeo](https://vimeo.com)
 - [Pexels (Free Images)](https://www.pexels.com)
@@ -33,7 +33,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 4. Entertainment
+# 4. Entertainment
 - [Netflix](https://www.netflix.com)
 - [Spotify](https://www.spotify.com)
 - [IMDb](https://www.imdb.com)
@@ -49,7 +49,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 5. Anime and Cartoons
+# 5. Anime and Cartoons
 - [Crunchyroll](https://www.crunchyroll.com)
 - [Funimation](https://www.funimation.com)
 - [Anime Planet](https://www.anime-planet.com)
@@ -62,7 +62,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 6. Reddit and Friends
+# 6. Reddit and Friends
 - [Reddit](https://www.reddit.com)
 - [4chan](https://boards.4chan.org)
 - [Lemmy (Reddit Alternative)](https://join-lemmy.org)
@@ -72,7 +72,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 7. Development Tools
+# 7. Development Tools
 - [CodePen](https://codepen.io)
 - [JSFiddle](https://jsfiddle.net)
 - [Regex101](https://regex101.com)
@@ -84,7 +84,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 8. Software & Utilities
+# 8. Software & Utilities
 - [FC Portables](https://fcportables.com)
 - [Get Into PC](https://getintopc.com)
 - [KaranPC](https://karanpc.com)
@@ -98,7 +98,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 9. Productivity
+# 9. Productivity
 - [Notion](https://www.notion.so)
 - [Trello](https://trello.com)
 - [Todoist](https://todoist.com)
@@ -110,14 +110,14 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 10. Gaming and Mods
+# 10. Gaming and Mods
 - [Nexus Mods](https://www.nexusmods.com)
 - [Mod DB](https://www.moddb.com)
 - [GameBanana](https://gamebanana.com)
 
 ---
 
-## 11. Security and Privacy
+# 11. Security and Privacy
 - [Have I Been Pwned?](https://haveibeenpwned.com)
 - [VirusTotal](https://www.virustotal.com)
 - [ProtonMail](https://protonmail.com)
@@ -128,7 +128,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 12. Online Utilities
+# 12. Online Utilities
 - [Speedtest](https://www.speedtest.net)
 - [Down For Everyone Or Just Me](https://downforeveryoneorjustme.com)
 - [QR Code Generator](https://www.qr-code-generator.com)
@@ -142,7 +142,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 13. Learning and Coding
+# 13. Learning and Coding
 - [Khan Academy](https://www.khanacademy.org)
 - [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
@@ -158,7 +158,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 14. Self-Hosting and Networking
+# 14. Self-Hosting and Networking
 - [Plex](https://www.plex.tv)
 - [Sonarr](https://sonarr.tv)
 - [Tailscale](https://tailscale.com)
@@ -170,7 +170,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 15. Sketchy Torrents and Pirate Sites
+# 15. Sketchy Torrents and Pirate Sites
 - [The Pirate Bay](https://thepiratebay.org)
 - [1337x](https://1337x.to)
 - [RARBG Mirror](https://rarbg.to)
@@ -182,7 +182,7 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 16. AI Tools
+# 16. AI Tools
 - [ChatGPT (OpenAI)](https://chat.openai.com)
 - [There's an AI for That](https://theresanaiforthat.com)
 - [Claude AI](https://claude.ai)
@@ -196,92 +196,108 @@ A curated list of tools and platforms for developers, designers, learners, and s
 
 ---
 
-## 17. Browser Extensions/Utilities
+# 17. Browser Extensions/Utilities
 - [uBlock Origin](https://ublockorigin.com) - Ad blocker
 - [LastPass](https://www.lastpass.com) - Password manager
 - [Honey](https://www.joinhoney.com) - Coupon finder
 
 ---
 
-## 18. Creative Tools
+# 18. Creative Tools
 - [Canva](https://www.canva.com) - Graphic design
 - [Figma](https://www.figma.com) - Collaborative design and prototyping
 - [Krita](https://krita.org) - Digital painting tool
 
 ---
 
-## 19. File Hosting and Sharing
+# 19. File Hosting and Sharing
 - [WeTransfer](https://wetransfer.com)
 - [MEGA](https://mega.io)
 - [Dropbox](https://www.dropbox.com)
 
 ---
 
-## 20. Alternative Search Engines
+# 20. Alternative Search Engines
 - [Ecosia](https://www.ecosia.org) - Search engine that plants trees
 - [Qwant](https://www.qwant.com) - Privacy-focused search engine
 
-## 21. API and Backend Tools
+# 21. API and Backend Tools
 - [RapidAPI](https://rapidapi.com) - API marketplace.
 - [PostgREST](https://postgrest.org) - REST API for PostgreSQL.
 - [SwaggerHub](https://swagger.io/tools/swaggerhub) - API documentation and testing.
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com) - Free fake API for testing and prototyping.
 
-## 22. Design and Prototyping
+# 22. Design and Prototyping
 - [InVision](https://www.invisionapp.com) - Digital product design platform.
 - [Marvel](https://marvelapp.com) - Prototyping, testing, and handoff for web and mobile.
 - [Coolors](https://coolors.co) - Color scheme generator.
 - [FontPair](https://fontpair.co) - Font pairing for web design.
 
-## 23. Writing and Content Creation
+# 23. Writing and Content Creation
 - [ProWritingAid](https://prowritingaid.com) - Grammar and style checker.
 - [Hemingway App](https://hemingwayapp.com) - Writing clarity tool.
 - [Zettlr](https://www.zettlr.com) - Markdown editor for researchers and writers.
 - [AI Dungeon](https://play.aidungeon.io) - AI-powered storytelling.
 
-## 24. Data Science and Visualization
+# 24. Data Science and Visualization
 - [Tableau Public](https://public.tableau.com) - Free data visualization.
 - [Google Data Studio](https://datastudio.google.com) - Free data visualization tool.
 - [Observable](https://observablehq.com) - Interactive JavaScript notebooks.
 - [Datawrapper](https://www.datawrapper.de) - Create charts and maps.
 
-## 25. Cloud Hosting and Deployment
+# 25. Cloud Hosting and Deployment
 - [Heroku](https://www.heroku.com) - Cloud application platform.
 - [Netlify](https://www.netlify.com) - Hosting for static websites.
 - [Vercel](https://vercel.com) - Frontend hosting and serverless functions.
 - [Linode](https://www.linode.com) - Cloud VPS hosting.
 
-## 26. Collaboration and Remote Work
+# 26. Collaboration and Remote Work
 - [Miro](https://miro.com) - Online whiteboard for collaboration.
 - [Slack](https://slack.com) - Team communication.
 - [Zoom](https://zoom.us) - Video conferencing.
 - [Loom](https://www.loom.com) - Video messaging for collaboration.
 
-## 27. Financial Tools
+# 27. Financial Tools
 - [YNAB (You Need A Budget)](https://www.youneedabudget.com) - Personal budgeting.
 - [Mint](https://mint.intuit.com) - Track spending and budgets.
 - [CryptoCompare](https://www.cryptocompare.com) - Cryptocurrency price tracking.
 - [Morningstar](https://www.morningstar.com) - Investment research and portfolio tracking.
 
-## 28. Fun and Miscellaneous
+# 28. Fun and Miscellaneous
 - [GeoGuessr](https://www.geoguessr.com) - Geography trivia game.
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Daily word puzzle.
 - [Zooniverse](https://www.zooniverse.org) - Participate in real-world research projects.
 - [SpaceHey](https://spacehey.com) - MySpace-inspired social network.
 
-## 29. Developer Hosting and Testing
+# 29. Developer Hosting and Testing
 - [GitLab](https://gitlab.com) - Repository hosting with CI/CD.
 - [Bitbucket](https://bitbucket.org) - Git hosting for teams.
 - [Replit](https://replit.com) - Online IDE and collaborative coding.
 - [CodeSandbox](https://codesandbox.io) - Online development environment.
 
-## 30. AI-Powered Creativity
+# 30. AI-Powered Creativity
 - [Runway ML](https://runwayml.com) - AI for video, image, and audio.
 - [DALL·E](https://openai.com/dall-e) - AI image generation.
 - [DeepDream Generator](https://deepdreamgenerator.com) - Neural network image manipulation.
 - [AIVA](https://www.aiva.ai) - AI music composition.
 
-## 31. Legal and Privacy Resources
+# 31. Legal and Privacy Resources
 - [TermsFeed](https://www.termsfeed.com) - Generate privacy policies and terms of use.
 - [Epic Privacy Browser](https://www.epicbrowser.com) - Privacy-focused web browser.
 - [TOS;DR (Terms of Service; Didn’t Read)](https://tosdr.org) - Summarized TOS ratings.
+
+---
+
+# Contribute 🚀
+WEBLIB is an open community project!  
+1. Suggest new websites by opening an [issue](https://github.com/coff33ninja/WEBLIB/issues).  
+2. Submit a pull request with your additions or improvements.  
+
+---
+
+# Stay Updated 📰
+Bookmark this page and check back regularly for new updates.  
+
+---
+
+Made with ❤️ by [Your Name/Username](https://github.com/coff33ninja).  
