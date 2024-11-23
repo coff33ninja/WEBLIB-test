@@ -300,4 +300,4 @@ Bookmark this page and check back regularly for new updates.
 
 ---
 
-Made with ❤️ by [Your Name/Username](https://github.com/coff33ninja).  
+Made with ❤️ by [coff33ninja](https://github.com/coff33ninja).  
